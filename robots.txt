@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://itlembit.github.io/sitemap.txt.gz
+Sitemap: https://itlembit.github.io/app/sitemap.txt.gz
+Sitemap: https://itlembit.github.io/assets/sitemap.txt.gz
+Sitemap: https://itlembit.github.io/css/sitemap.txt.gz
+Sitemap: https://itlembit.github.io/includes/sitemap.txt.gz
+Sitemap: https://itlembit.github.io/item/sitemap.txt.gz
+Sitemap: https://itlembit.github.io/src/sitemap.txt.gz
